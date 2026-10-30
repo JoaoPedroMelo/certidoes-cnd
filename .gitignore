@@ -1,0 +1,11 @@
+node_modules
+.env
+.env*.local
+.next
+.vercel
+robo/perfil-navegador
+
+# Dados de clientes: ficam só na máquina local
+*.xlsx
+*.jpeg
+web/scripts/empresas-iniciais.json
